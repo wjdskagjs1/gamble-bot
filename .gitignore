@@ -1,0 +1,6 @@
+/node_modules
+/.vscode
+config.json
+gamble.pem
+gamble.ppk
+package-lock.json
